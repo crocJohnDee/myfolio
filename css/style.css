@@ -174,13 +174,13 @@ header img {
 
 @keyframes mover {
     0% { 
-        transform: translateY(0); 
+        transform: translateY(20px); 
     }
     50% {
         box-shadow: 0 0 0 3px #5f7e98
     }
     100% { 
-        transform: translateY(-20px);
+        transform: translateY(-5px);
         box-shadow: 0 0 2px 3px #94beec; 
     }
 
